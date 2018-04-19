@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C8E2277E-CFB1-4278-38C4-88C217F99466}") = "Cloud", "Assembly-CSharp.csproj", "{F85561A2-19A1-D572-802A-6665D7599A04}"
+EndProject
+Project("{C8E2277E-CFB1-4278-38C4-88C217F99466}") = "Cloud", "Assembly-CSharp-Editor.csproj", "{2C935AA6-2496-A6DD-81E2-35FA664524FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F85561A2-19A1-D572-802A-6665D7599A04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F85561A2-19A1-D572-802A-6665D7599A04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F85561A2-19A1-D572-802A-6665D7599A04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F85561A2-19A1-D572-802A-6665D7599A04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C935AA6-2496-A6DD-81E2-35FA664524FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C935AA6-2496-A6DD-81E2-35FA664524FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C935AA6-2496-A6DD-81E2-35FA664524FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C935AA6-2496-A6DD-81E2-35FA664524FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
